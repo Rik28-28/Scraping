@@ -1,3 +1,3 @@
 # Scraping
 
-Asegurarse de ingresar la url deonde se iniciara el scrapeado en el archivo background.js
+Asegurarse de ingresar la url , donde se iniciará el scraping, en el archivo background.js
